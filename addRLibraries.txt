@@ -1,7 +1,10 @@
-ade4
+ade4 - mp
 adehabitat
+adehabitatHS - mp
+arcgisbinding - all
 boot
 car
+caret - mp
 CircStats
 circular
 class
@@ -35,12 +38,13 @@ KernSmooth
 knnTree
 lattice
 lmtest
-maptools
+maptools -mp
 MASS
 Matrix
 mclust
 mclust02
 mgcv
+MKmisc - mp
 modeltools
 MSBVAR
 mvoutlier
@@ -49,30 +53,34 @@ mvtnorm
 ncdf
 nlme
 nnet
+pROC - mp
 R2HTML
+raster - mp
 randomForest
 rgdal
 rgl
+ROCR - mp
 robust
 robustbase
 rpart
 rrcov
 RUnit
 sandwich
+sf - mp
 shape
 shapefiles
 sm
-sp
+sp - mp
 spam
 SparseM
 spatclus
 spatial
 SpatialNP
-spatstat
-spdep
+spatstat - mp
+spdep - mp
 spgwr
 splancs
-survey
+survey - mp
 survival
 tcltk2
 tensorA
@@ -86,8 +94,7 @@ mapproj
 splancs
 Matrix
 ggplot2
-dplyr
-plyr
-sp
+dplyr - mp
+plyr - mp
 spacetime
 digest
