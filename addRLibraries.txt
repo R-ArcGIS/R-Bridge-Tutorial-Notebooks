@@ -98,3 +98,7 @@ dplyr - mp
 plyr - mp
 spacetime
 digest
+imager - OA
+wvtool - OA
+reticulate - OA
+reshape - OA
