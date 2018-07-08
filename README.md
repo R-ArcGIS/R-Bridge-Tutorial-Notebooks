@@ -1,6 +1,7 @@
 # UC_2018
 Materials presented at Esri's 2018 UC
 
+[Static Notebooks](https://nbviewer.jupyter.org/github/r-arcgis/uc-2018/tree/master/)
 
 To use these notebooks in the preconference seminar: 
 
