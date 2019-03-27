@@ -1,0 +1,48 @@
+<PAMDataset>
+  <SRS>PROJCS["NAD83_California_zone_6_ftUS",GEOGCS["GCS_North_American_1983",DATUM["North_American_Datum_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["false_easting",6561666.667],PARAMETER["false_northing",1640416.667],PARAMETER["central_meridian",-116.25],PARAMETER["standard_parallel_1",32.78333333333333],PARAMETER["standard_parallel_2",33.88333333333333],PARAMETER["latitude_of_origin",32.16666666666666],UNIT["Foot_US",0.3048006096012192]]</SRS>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/2.3.0">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS["NAD83_California_zone_6_ftUS",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["false_easting",6561666.667],PARAMETER["false_northing",1640416.667],PARAMETER["central_meridian",-116.25],PARAMETER["standard_parallel_1",32.78333333333333],PARAMETER["standard_parallel_2",33.88333333333333],PARAMETER["latitude_of_origin",32.16666666666666],UNIT["Foot_US",0.3048006096012192]]</WKT>
+        <XOrigin>-118608900</XOrigin>
+        <YOrigin>-91259500</YOrigin>
+        <XYScale>35979706.307677768</XYScale>
+        <ZOrigin>-100000</ZOrigin>
+        <ZScale>10000</ZScale>
+        <MOrigin>-100000</MOrigin>
+        <MScale>10000</MScale>
+        <XYTolerance>0.0032808333333333331</XYTolerance>
+        <ZTolerance>0.001</ZTolerance>
+        <MTolerance>0.001</MTolerance>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+      <CoeffX xsi:type="typens:ArrayOfDouble">
+        <Double>5950684.2496154997</Double>
+        <Double>48.476689921777421</Double>
+        <Double>0</Double>
+      </CoeffX>
+      <CoeffY xsi:type="typens:ArrayOfDouble">
+        <Double>2340134.4807518381</Double>
+        <Double>0</Double>
+        <Double>48.476689921777364</Double>
+      </CoeffY>
+      <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+        <Double>-122753.51842746729</Double>
+        <Double>0.020628471160337312</Double>
+        <Double>0</Double>
+      </InverseCoeffX>
+      <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+        <Double>-48273.396647500558</Double>
+        <Double>0</Double>
+        <Double>0.020628471160337336</Double>
+      </InverseCoeffY>
+      <Name />
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
