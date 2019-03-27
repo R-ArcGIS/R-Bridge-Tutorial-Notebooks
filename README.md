@@ -1,6 +1,6 @@
 # R-ArcGIS Bridge Tutorial Notebooks
 
-
+Take the [survey](https://arcg.is/0in84y)!
 
 [Static Notebooks](https://nbviewer.jupyter.org/github/r-arcgis/uc-2018/tree/master/)
 
