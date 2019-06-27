@@ -102,3 +102,4 @@ imager - OA
 wvtool - OA
 reticulate - OA
 reshape - OA
+hpiR - OA
