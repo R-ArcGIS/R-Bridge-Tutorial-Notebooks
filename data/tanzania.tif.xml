@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190706</CreaDate><CreaTime>11271100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\arcgis\arcgispro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CopyRaster" Date="20190706" Time="112727">CopyRaster tanzania_small "F:\UC 2019\R Bridge Preconference\tanzania.tif" # # 256 NONE ColormapToRGB # NONE NONE "TIFF format" NONE CURRENT_SLICE NO_TRANSPOSE</Process></lineage></DataProperties></Esri></metadata>
