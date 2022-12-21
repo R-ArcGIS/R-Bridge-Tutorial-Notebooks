@@ -1,0 +1,26 @@
+{
+    "id": "4B2A2995",
+    "path": "~/IPython Notebooks/R-Bridge-Tutorial-Notebooks/shiny/search-and-display-agol/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "3471929845",
+    "contents": "",
+    "dirty": false,
+    "created": 1671648782342.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "59,29",
+        "scrollLine": "44"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1671650062,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1671650062790,
+    "read_only": false,
+    "read_only_alternatives": []
+}
