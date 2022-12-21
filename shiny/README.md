@@ -5,7 +5,7 @@ This folder contains sample [Shiny](https://shiny.rstudio.com/) applications tha
 Below are decriptions to some sample applications created using Shiny.
 
 ## [search-and-display-agol](https://github.com/gbrunner/R-Bridge-Tutorial-Notebooks/blob/master/shiny/search-and-display-agol)
-This application searches ArcGIS Online or ArcGIS Enterprise for feature services, reads them as GeoJSON, and adds them to a Leaflet map. The UI contains a label, a search text box, a search button, and a check box for searching only your content or all of AGOL. 
+This application searches ArcGIS Online or ArcGIS Enterprise for feature services, reads them as GeoJSON, and adds them to a Leaflet map. It uses a sample R package called ```arcgis``` hosted at https://github.com/gbrunner/arcgis-r-demos to interface with ArcGIS Online or ArcGIS Enterprise via the ArcGIS REST API and the [```httr```](https://cran.r-project.org/web/packages/httr/index.html) package. The UI contains a label, a search text box, a search button, and a check box for searching only your content or all of AGOL. 
 Before you run the application, make sure to update the URL, username, and password in the code. 
 ```
 # Create a new GIS object
